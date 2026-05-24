@@ -6,6 +6,8 @@ This portfolio showcases my projects, technical skills, experience, and contact 
 ## 🚀 Live Demo
 
 🔗 Visit Website:  
+<img width="1918" height="917" alt="image" src="https://github.com/user-attachments/assets/f28adf3e-e4ba-4943-b846-ab29240238dc" />
+<img width="1918" height="920" alt="image" src="https://github.com/user-attachments/assets/9d555b81-ac10-4ee1-b413-946f3d1ec77d" />
 
 
 ---
@@ -104,10 +106,10 @@ Frontend & Full Stack MERN Developer
 # 📬 Contact Me
 
 ## LinkedIn
-https://www.linkedin.com/
+[https://www.linkedin.com/](https://www.linkedin.com/in/amar-deep-a05360241/)
 
 ## GitHub
-https://github.com/
+[https://github.com/](https://github.com/AmarDeepCodesAI)
 
 ---
 
