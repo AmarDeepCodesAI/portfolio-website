@@ -1,30 +1,120 @@
-## Portfolio-Website
-Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
+# 💼 Portfolio Website
 
-<a href="https://portfoliodevom.netlify.app/" target="_blank">**Visit Now** 🚀</a>
+A modern and responsive personal portfolio website built using HTML5, CSS3, JavaScript, and jQuery.  
+This portfolio showcases my projects, technical skills, experience, and contact information in a clean and interactive UI.
 
+## 🚀 Live Demo
 
-## 📌 Tech Stack
-[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/jigar-sable/Portfolio-Website/search?l=html)&nbsp;
-[![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/jigar-sable/Portfolio-Website/search?l=css)&nbsp;
-[![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/jigar-sable/Portfolio-Website/search?l=javascript)
-<img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
-
-### Extras : 
-Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawkto, Font Awesome and JSON
-
-## 📌 Sneak Peek of Main Page 🙈 :
-<img width="958" alt="image" src="https://github.com/pattjoshi/Portfolio_Dev/assets/78966839/6bafa46e-4d4d-414e-896c-5d59369d1e5c">
-<img width="960" alt="image" src="https://github.com/pattjoshi/Portfolio_Dev/assets/78966839/045f002c-9cf0-4d90-b699-182d7a1192e6">
+🔗 Visit Website:  
 
 
+---
 
-<h2>📬 Contact</h2>
+# 📌 Features
 
-If you want to contact me, you can reach me through below handles.
+- Responsive Design
+- Smooth Scrolling
+- Animated Hero Section
+- Interactive Skills Section
+- Projects Showcase
+- Contact Form
+- Typing Animation
+- Scroll Reveal Animations
+- Modern UI/UX
 
-&nbsp;&nbsp;<a href="https://www.linkedin.com/in/om-prakash-pattjoshi-/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
+---
 
-© 2023 om pattjoshi
+# 🛠️ Tech Stack
+
+## Frontend Technologies
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- jQuery
+
+## Libraries & Tools
+
+- Particle.js
+- Typed.js
+- Scroll Reveal
+- Tilt.js
+- Font Awesome
+- JSON
+
+---
+
+# 📷 Preview
 
 
+---
+
+# 📂 Folder Structure
+
+```bash
+Portfolio-Website/
+│── assets/
+│── css/
+│── js/
+│── images/
+│── index.html
+│── README.md
+```
+
+---
+
+# ⚡ Installation & Setup
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/Portfolio-Website.git
+```
+
+2. Navigate to project folder
+
+```bash
+cd Portfolio-Website
+```
+
+3. Open `index.html` in browser
+
+---
+
+# 🌐 Deployment
+
+This project is deployed on Netlify.
+
+You can also deploy using:
+
+- Netlify
+- Vercel
+- GitHub Pages
+
+---
+
+# 👨‍💻 Author
+
+## Amar Deep
+
+Frontend & Full Stack MERN Developer
+
+---
+
+# 📬 Contact Me
+
+## LinkedIn
+https://www.linkedin.com/
+
+## GitHub
+https://github.com/
+
+---
+
+# ⭐ Support
+
+If you like this project, give it a ⭐ on GitHub.
+
+---
+
+© 2026 Amar Deep. All Rights Reserved.

@@ -43,7 +43,7 @@ $(document).ready(function () {
 
 document.addEventListener("visibilitychange", function () {
   if (document.visibilityState === "visible") {
-    document.title = "Portfolio | Om prakash";
+    document.title = "Portfolio | Amar Deep";
     $("#favicon").attr("href", "assests/images/favicon.png");
   } else {
     document.title = "Come Back To Portfolio";
@@ -54,7 +54,7 @@ document.addEventListener("visibilitychange", function () {
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
   strings: [
-    "A MERN STACK DEVELOPER",
+    "A PERN | MERN STACK DEVELOPER",
     "UI UX Developer",
     "A PROGRAMMER",
     "AN ENGINEER",
